@@ -1,1 +1,2 @@
-this is my practise text file
+this is my practise text file.
+this is the new line added to the file
